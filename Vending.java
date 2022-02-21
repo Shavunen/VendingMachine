@@ -16,7 +16,7 @@ public class Vending {
 
 		System.out.println("Please select a snack from our vending machine!!");
 		
-		System.out.println("DELETE  DHRUVI");
+		System.out.println("hey girl hey ");
 
 		System.out.println("selection 1: KitKat, price 1.70");
 		System.out.println("selection 2: Orange Juice, price 2.50");
