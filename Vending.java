@@ -1,5 +1,6 @@
-import java.util.Scanner;
+package src;
 
+import java.util.Scanner;
 
 public class Vending {
 
@@ -14,9 +15,8 @@ public class Vending {
 		double Selection = 0.00;
 
 		System.out.println("Please select a snack from our vending machine!!");
-		System.out.println("Delete this line");
-		System.out.println("hi");
-
+		
+		System.out.println("DELETE  DHRUVI");
 
 		System.out.println("selection 1: KitKat, price 1.70");
 		System.out.println("selection 2: Orange Juice, price 2.50");
