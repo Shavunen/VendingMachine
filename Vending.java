@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+
 public class Vending {
 
 	public static void main(String[] args) {
@@ -14,6 +15,7 @@ public class Vending {
 
 		System.out.println("Please select a snack from our vending machine!!");
 		System.out.println("Delete this line");
+		System.out.println("hi");
 
 
 		System.out.println("selection 1: KitKat, price 1.70");
