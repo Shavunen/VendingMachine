@@ -16,6 +16,8 @@ public class Vending {
 		System.out.println("Hello! Welcome to the vending machine:)");
 		System.out.println("Please select a snack from our vending machine!!");
 
+		System.out.println("hi serena");
+		
 		
 		System.out.println("selection 1: KitKat, price 1.70");
 		System.out.println("selection 2: Orange Juice, price 2.50");
@@ -24,7 +26,7 @@ public class Vending {
 		System.out.println("selection 5: PopTarts, price 2.10");
 
 		Selection = question.nextInt();
-
+		
 		return Selection;
 
 	}
